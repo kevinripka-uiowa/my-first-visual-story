@@ -10,7 +10,8 @@
     "@datagraphics/baker": "^0.44.1",
     "@datagraphics/delivery": "^0.6.0",
     "bootstrap": "^5.3.3",
-    "intersection-observer": "^0.12.0"
+    "intersection-observer": "^0.12.0",
+    "leaflet": "^1.9.4"
   },
   "devDependencies": {
     "@datagraphics/prettier-config": "^2.0.0",
