@@ -9,7 +9,7 @@ export default {
   entrypoints: `scripts/${
     entrypoints.length > 1 ? `{${entrypoints.join(',')}}` : entrypoints[0]
   }.js`,
-  pathPrefix: 'my-first-visual-story',
+  pathPrefix: '/my-first-visual-story/',
   // An example of how creating dynamic pages, as described in the README
   // createPages(createPage, data) {
   //   const pageList = data.example;
